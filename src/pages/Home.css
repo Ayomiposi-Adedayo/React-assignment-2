@@ -1,0 +1,16 @@
+.Home {
+    height: 95vh;
+    width: 95vw;
+    background-image: url(./Home-img.svg);
+  background-position: center;
+  background-size:contain;
+  background-repeat: no-repeat;
+}
+
+.home-h1 {
+text-align: center;
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+font-weight: 100; 
+font-size: 64px;
+color: #49C0FF;
+}
